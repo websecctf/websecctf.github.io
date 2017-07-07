@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$('.js-timer').countdown('2017/07/07', function(event) {
+	$('.js-timer').countdown('2017/07/08', function(event) {
   $(this).html(event.strftime('%D days %H:%M:%S'));
 });
 	// animate scroll when nav links are clicked
